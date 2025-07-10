@@ -10,3 +10,6 @@
 ### [2025-07-09] - docs(system): document microservices event-driven messaging patterns
 - **Timestamp**: 2025-07-09T21:10:45+05:30
 - **Status**: Completed and verified
+### [2025-07-10] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2025-07-10T12:15:31+05:30
+- **Status**: Completed and verified
