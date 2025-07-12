@@ -22,3 +22,6 @@
 ### [2025-07-12] - feat(dsa): implement binary search tree balance check
 - **Timestamp**: 2025-07-12T09:54:41+05:30
 - **Status**: Completed and verified
+### [2025-07-12] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2025-07-12T16:11:02+05:30
+- **Status**: Completed and verified
