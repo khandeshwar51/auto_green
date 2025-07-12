@@ -25,3 +25,6 @@
 ### [2025-07-12] - perf(dsa): reduce auxiliary space in merge sort routine
 - **Timestamp**: 2025-07-12T16:11:02+05:30
 - **Status**: Completed and verified
+### [2025-07-12] - feat(dsa): implement LRU cache with hash map and doubly linked list
+- **Timestamp**: 2025-07-12T19:34:49+05:30
+- **Status**: Completed and verified
