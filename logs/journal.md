@@ -28,3 +28,6 @@
 ### [2025-07-12] - feat(dsa): implement LRU cache with hash map and doubly linked list
 - **Timestamp**: 2025-07-12T19:34:49+05:30
 - **Status**: Completed and verified
+### [2025-07-13] - feat(api): add request schema validation and error boundary
+- **Timestamp**: 2025-07-13T11:08:01+05:30
+- **Status**: Completed and verified
