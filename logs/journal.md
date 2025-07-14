@@ -37,3 +37,6 @@
 ### [2025-07-13] - chore(deps): update routine dependencies and development tooling
 - **Timestamp**: 2025-07-13T18:14:46+05:30
 - **Status**: Completed and verified
+### [2025-07-14] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2025-07-14T18:30:03+05:30
+- **Status**: Completed and verified
