@@ -40,3 +40,6 @@
 ### [2025-07-14] - test(dsa): add edge cases for linked list reversal and cycle detection
 - **Timestamp**: 2025-07-14T18:30:03+05:30
 - **Status**: Completed and verified
+### [2025-07-15] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2025-07-15T12:13:00+05:30
+- **Status**: Completed and verified
