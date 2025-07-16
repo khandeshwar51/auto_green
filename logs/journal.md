@@ -49,3 +49,6 @@
 ### [2025-07-15] - test(dsa): add edge cases for linked list reversal and cycle detection
 - **Timestamp**: 2025-07-15T22:04:27+05:30
 - **Status**: Completed and verified
+### [2025-07-16] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2025-07-16T12:00:49+05:30
+- **Status**: Completed and verified
