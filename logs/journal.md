@@ -64,3 +64,6 @@
 ### [2025-07-17] - test(unit): add unit tests for string tokenization and hashing
 - **Timestamp**: 2025-07-17T15:26:47+05:30
 - **Status**: Completed and verified
+### [2025-07-17] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2025-07-17T21:24:17+05:30
+- **Status**: Completed and verified
