@@ -58,3 +58,6 @@
 ### [2025-07-17] - test(fuzz): add randomized property-based tests for sorting algorithms
 - **Timestamp**: 2025-07-17T13:27:22+05:30
 - **Status**: Completed and verified
+### [2025-07-17] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2025-07-17T15:02:22+05:30
+- **Status**: Completed and verified
