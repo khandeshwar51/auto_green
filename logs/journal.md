@@ -55,3 +55,6 @@
 ### [2025-07-16] - refactor(core): optimize algorithmic time complexity and memory layout
 - **Timestamp**: 2025-07-16T15:00:03+05:30
 - **Status**: Completed and verified
+### [2025-07-17] - test(fuzz): add randomized property-based tests for sorting algorithms
+- **Timestamp**: 2025-07-17T13:27:22+05:30
+- **Status**: Completed and verified
