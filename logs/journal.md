@@ -76,3 +76,6 @@
 ### [2025-07-18] - docs(dsa): add amortized time complexity proof for dynamic arrays
 - **Timestamp**: 2025-07-18T16:46:08+05:30
 - **Status**: Completed and verified
+### [2025-07-18] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2025-07-18T19:12:35+05:30
+- **Status**: Completed and verified
