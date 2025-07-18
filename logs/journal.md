@@ -73,3 +73,6 @@
 ### [2025-07-18] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
 - **Timestamp**: 2025-07-18T13:19:42+05:30
 - **Status**: Completed and verified
+### [2025-07-18] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2025-07-18T16:46:08+05:30
+- **Status**: Completed and verified
