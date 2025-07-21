@@ -94,3 +94,6 @@
 ### [2025-07-20] - fix(boundary): handle empty input vector edge case gracefully
 - **Timestamp**: 2025-07-20T16:06:19+05:30
 - **Status**: Completed and verified
+### [2025-07-21] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2025-07-21T09:02:50+05:30
+- **Status**: Completed and verified
