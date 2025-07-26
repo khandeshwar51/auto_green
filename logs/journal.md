@@ -121,3 +121,6 @@
 ### [2025-07-25] - feat(dsa): implement binary search tree balance check
 - **Timestamp**: 2025-07-25T23:48:07+05:30
 - **Status**: Completed and verified
+### [2025-07-26] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2025-07-26T23:43:24+05:30
+- **Status**: Completed and verified
