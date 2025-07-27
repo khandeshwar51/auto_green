@@ -127,3 +127,6 @@
 ### [2025-07-27] - feat(python): implement generator-based streaming parser
 - **Timestamp**: 2025-07-27T09:54:57+05:30
 - **Status**: Completed and verified
+### [2025-07-27] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2025-07-27T23:10:20+05:30
+- **Status**: Completed and verified
