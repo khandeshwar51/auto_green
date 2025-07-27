@@ -124,3 +124,6 @@
 ### [2025-07-26] - fix(null-check): add safety guards for uninitialized pointers
 - **Timestamp**: 2025-07-26T23:43:24+05:30
 - **Status**: Completed and verified
+### [2025-07-27] - feat(python): implement generator-based streaming parser
+- **Timestamp**: 2025-07-27T09:54:57+05:30
+- **Status**: Completed and verified
