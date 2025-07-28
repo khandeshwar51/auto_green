@@ -136,3 +136,6 @@
 ### [2025-07-28] - feat(dsa): add priority queue implementation using min-heap
 - **Timestamp**: 2025-07-28T13:44:16+05:30
 - **Status**: Completed and verified
+### [2025-07-28] - test(unit): add boundary condition validation test cases
+- **Timestamp**: 2025-07-28T16:53:39+05:30
+- **Status**: Completed and verified
