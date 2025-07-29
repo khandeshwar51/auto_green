@@ -145,3 +145,6 @@
 ### [2025-07-29] - feat(systems): implement thread-safe buffer queue abstraction
 - **Timestamp**: 2025-07-29T14:46:57+05:30
 - **Status**: Completed and verified
+### [2025-07-29] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2025-07-29T18:27:53+05:30
+- **Status**: Completed and verified
