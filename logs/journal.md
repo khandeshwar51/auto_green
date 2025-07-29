@@ -148,3 +148,6 @@
 ### [2025-07-29] - docs(notes): add notes on CAP theorem and eventual consistency
 - **Timestamp**: 2025-07-29T18:27:53+05:30
 - **Status**: Completed and verified
+### [2025-07-29] - docs(system): document microservices event-driven messaging patterns
+- **Timestamp**: 2025-07-29T23:09:35+05:30
+- **Status**: Completed and verified
