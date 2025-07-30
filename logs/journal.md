@@ -157,3 +157,6 @@
 ### [2025-07-30] - fix(memory): fix dangling pointer access in tree node deletion
 - **Timestamp**: 2025-07-30T16:43:12+05:30
 - **Status**: Completed and verified
+### [2025-07-30] - docs(notes): update system architecture and distributed consensus summary
+- **Timestamp**: 2025-07-30T21:47:34+05:30
+- **Status**: Completed and verified
