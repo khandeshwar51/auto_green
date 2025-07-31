@@ -160,3 +160,6 @@
 ### [2025-07-30] - docs(notes): update system architecture and distributed consensus summary
 - **Timestamp**: 2025-07-30T21:47:34+05:30
 - **Status**: Completed and verified
+### [2025-07-31] - feat(api): add request schema validation and error boundary
+- **Timestamp**: 2025-07-31T12:18:10+05:30
+- **Status**: Completed and verified
