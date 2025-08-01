@@ -166,3 +166,6 @@
 ### [2025-08-01] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
 - **Timestamp**: 2025-08-01T16:28:22+05:30
 - **Status**: Completed and verified
+### [2025-08-01] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2025-08-01T19:45:39+05:30
+- **Status**: Completed and verified
