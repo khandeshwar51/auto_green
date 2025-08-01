@@ -163,3 +163,6 @@
 ### [2025-07-31] - feat(api): add request schema validation and error boundary
 - **Timestamp**: 2025-07-31T12:18:10+05:30
 - **Status**: Completed and verified
+### [2025-08-01] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2025-08-01T16:28:22+05:30
+- **Status**: Completed and verified
