@@ -175,3 +175,6 @@
 ### [2025-08-02] - refactor(dsa): optimize recursive backtracking with bitmask pruning
 - **Timestamp**: 2025-08-02T14:36:23+05:30
 - **Status**: Completed and verified
+### [2025-08-02] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2025-08-02T19:04:28+05:30
+- **Status**: Completed and verified
