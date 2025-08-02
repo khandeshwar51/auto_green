@@ -178,3 +178,6 @@
 ### [2025-08-02] - feat(dsa): implement binary search tree balance check
 - **Timestamp**: 2025-08-02T19:04:28+05:30
 - **Status**: Completed and verified
+### [2025-08-02] - feat(api): add request schema validation and error boundary
+- **Timestamp**: 2025-08-02T23:18:55+05:30
+- **Status**: Completed and verified
