@@ -190,3 +190,6 @@
 ### [2025-08-04] - refactor(state): consolidate global store selectors and reducers
 - **Timestamp**: 2025-08-04T09:20:39+05:30
 - **Status**: Completed and verified
+### [2025-08-04] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2025-08-04T13:41:31+05:30
+- **Status**: Completed and verified
