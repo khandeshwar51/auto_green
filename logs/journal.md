@@ -199,3 +199,6 @@
 ### [2025-08-05] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2025-08-05T14:05:08+05:30
 - **Status**: Completed and verified
+### [2025-08-05] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2025-08-05T22:17:58+05:30
+- **Status**: Completed and verified
