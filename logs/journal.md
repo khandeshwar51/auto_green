@@ -205,3 +205,6 @@
 ### [2025-08-06] - refactor(dsa): streamline graph traversal and shortest path logic
 - **Timestamp**: 2025-08-06T11:09:10+05:30
 - **Status**: Completed and verified
+### [2025-08-06] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2025-08-06T20:06:56+05:30
+- **Status**: Completed and verified
