@@ -214,3 +214,6 @@
 ### [2025-08-08] - chore(tooling): update git attributes and repository metadata
 - **Timestamp**: 2025-08-08T11:25:11+05:30
 - **Status**: Completed and verified
+### [2025-08-08] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2025-08-08T17:33:32+05:30
+- **Status**: Completed and verified
