@@ -229,3 +229,6 @@
 ### [2025-08-10] - feat(web): enhance dark mode transition and UI accessibility
 - **Timestamp**: 2025-08-10T15:02:24+05:30
 - **Status**: Completed and verified
+### [2025-08-10] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2025-08-10T18:09:33+05:30
+- **Status**: Completed and verified
