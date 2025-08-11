@@ -232,3 +232,6 @@
 ### [2025-08-10] - feat(dsa): implement binary search tree balance check
 - **Timestamp**: 2025-08-10T18:09:33+05:30
 - **Status**: Completed and verified
+### [2025-08-11] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2025-08-11T10:18:29+05:30
+- **Status**: Completed and verified
