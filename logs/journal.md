@@ -247,3 +247,6 @@
 ### [2025-08-11] - feat(dsa): add memoization to dynamic programming recurrence
 - **Timestamp**: 2025-08-11T20:56:52+05:30
 - **Status**: Completed and verified
+### [2025-08-12] - test(fuzz): add randomized property-based tests for sorting algorithms
+- **Timestamp**: 2025-08-12T10:54:37+05:30
+- **Status**: Completed and verified
