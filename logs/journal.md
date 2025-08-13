@@ -250,3 +250,6 @@
 ### [2025-08-12] - test(fuzz): add randomized property-based tests for sorting algorithms
 - **Timestamp**: 2025-08-12T10:54:37+05:30
 - **Status**: Completed and verified
+### [2025-08-13] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2025-08-13T10:22:08+05:30
+- **Status**: Completed and verified
