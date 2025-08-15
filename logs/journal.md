@@ -265,3 +265,6 @@
 ### [2025-08-15] - perf(dsa): reduce auxiliary space in merge sort routine
 - **Timestamp**: 2025-08-15T09:00:39+05:30
 - **Status**: Completed and verified
+### [2025-08-15] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2025-08-15T15:31:47+05:30
+- **Status**: Completed and verified
