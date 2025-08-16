@@ -268,3 +268,6 @@
 ### [2025-08-15] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
 - **Timestamp**: 2025-08-15T15:31:47+05:30
 - **Status**: Completed and verified
+### [2025-08-16] - fix(memory): fix dangling pointer access in tree node deletion
+- **Timestamp**: 2025-08-16T12:53:21+05:30
+- **Status**: Completed and verified
