@@ -277,3 +277,6 @@
 ### [2025-08-16] - refactor(dsa): streamline graph traversal and shortest path logic
 - **Timestamp**: 2025-08-16T19:56:48+05:30
 - **Status**: Completed and verified
+### [2025-08-16] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2025-08-16T22:05:47+05:30
+- **Status**: Completed and verified
