@@ -307,3 +307,6 @@
 ### [2025-08-20] - perf(cache): improve cache locality for sequential matrix access
 - **Timestamp**: 2025-08-20T11:16:59+05:30
 - **Status**: Completed and verified
+### [2025-08-20] - feat(react): build reusable modal and drawer component primitives
+- **Timestamp**: 2025-08-20T13:37:31+05:30
+- **Status**: Completed and verified
