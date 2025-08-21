@@ -325,3 +325,6 @@
 ### [2025-08-21] - perf(query): optimize linear scan to binary search lookup
 - **Timestamp**: 2025-08-21T18:08:37+05:30
 - **Status**: Completed and verified
+### [2025-08-21] - feat(api): add request schema validation and error boundary
+- **Timestamp**: 2025-08-21T21:27:45+05:30
+- **Status**: Completed and verified
