@@ -322,3 +322,6 @@
 ### [2025-08-21] - refactor(io): streamline file stream reader and buffer flushing
 - **Timestamp**: 2025-08-21T13:53:15+05:30
 - **Status**: Completed and verified
+### [2025-08-21] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2025-08-21T18:08:37+05:30
+- **Status**: Completed and verified
