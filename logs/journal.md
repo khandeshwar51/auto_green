@@ -331,3 +331,6 @@
 ### [2025-08-22] - chore(lint): fix compiler warnings and align formatting style
 - **Timestamp**: 2025-08-22T10:06:06+05:30
 - **Status**: Completed and verified
+### [2025-08-22] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2025-08-22T19:30:21+05:30
+- **Status**: Completed and verified
