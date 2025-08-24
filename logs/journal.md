@@ -346,3 +346,6 @@
 ### [2025-08-24] - feat(systems): implement thread-safe buffer queue abstraction
 - **Timestamp**: 2025-08-24T14:55:23+05:30
 - **Status**: Completed and verified
+### [2025-08-24] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2025-08-24T19:36:28+05:30
+- **Status**: Completed and verified
