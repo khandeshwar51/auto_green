@@ -337,3 +337,6 @@
 ### [2025-08-23] - feat(dsa): implement LRU cache with hash map and doubly linked list
 - **Timestamp**: 2025-08-23T18:46:21+05:30
 - **Status**: Completed and verified
+### [2025-08-24] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2025-08-24T10:17:16+05:30
+- **Status**: Completed and verified
