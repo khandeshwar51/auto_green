@@ -358,3 +358,6 @@
 ### [2025-08-26] - feat(dsa): add memoization to dynamic programming recurrence
 - **Timestamp**: 2025-08-26T16:09:37+05:30
 - **Status**: Completed and verified
+### [2025-08-26] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2025-08-26T17:28:31+05:30
+- **Status**: Completed and verified
