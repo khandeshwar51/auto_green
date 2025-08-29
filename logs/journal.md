@@ -373,3 +373,6 @@
 ### [2025-08-28] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2025-08-28T16:02:26+05:30
 - **Status**: Completed and verified
+### [2025-08-29] - feat(api): add request schema validation and error boundary
+- **Timestamp**: 2025-08-29T14:51:02+05:30
+- **Status**: Completed and verified
