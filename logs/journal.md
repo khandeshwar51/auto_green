@@ -385,3 +385,6 @@
 ### [2025-08-30] - feat(dsa): add priority queue implementation using min-heap
 - **Timestamp**: 2025-08-30T11:14:09+05:30
 - **Status**: Completed and verified
+### [2025-08-31] - refactor(core): optimize algorithmic time complexity and memory layout
+- **Timestamp**: 2025-08-31T11:04:30+05:30
+- **Status**: Completed and verified
