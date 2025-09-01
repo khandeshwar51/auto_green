@@ -397,3 +397,6 @@
 ### [2025-09-01] - refactor(state): consolidate global store selectors and reducers
 - **Timestamp**: 2025-09-01T09:54:51+05:30
 - **Status**: Completed and verified
+### [2025-09-01] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2025-09-01T19:48:13+05:30
+- **Status**: Completed and verified
