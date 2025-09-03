@@ -409,3 +409,6 @@
 ### [2025-09-03] - chore(deps): update routine dependencies and development tooling
 - **Timestamp**: 2025-09-03T14:53:12+05:30
 - **Status**: Completed and verified
+### [2025-09-03] - chore(tooling): update git attributes and repository metadata
+- **Timestamp**: 2025-09-03T20:43:29+05:30
+- **Status**: Completed and verified
