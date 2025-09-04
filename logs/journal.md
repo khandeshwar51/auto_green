@@ -412,3 +412,6 @@
 ### [2025-09-03] - chore(tooling): update git attributes and repository metadata
 - **Timestamp**: 2025-09-03T20:43:29+05:30
 - **Status**: Completed and verified
+### [2025-09-04] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2025-09-04T10:24:21+05:30
+- **Status**: Completed and verified
