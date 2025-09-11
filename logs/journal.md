@@ -451,3 +451,6 @@
 ### [2025-09-10] - test(unit): add unit tests for string tokenization and hashing
 - **Timestamp**: 2025-09-10T15:30:56+05:30
 - **Status**: Completed and verified
+### [2025-09-11] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2025-09-11T10:37:32+05:30
+- **Status**: Completed and verified
