@@ -469,3 +469,6 @@
 ### [2025-09-12] - test(fuzz): add randomized property-based tests for sorting algorithms
 - **Timestamp**: 2025-09-12T21:05:25+05:30
 - **Status**: Completed and verified
+### [2025-09-13] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2025-09-13T12:27:25+05:30
+- **Status**: Completed and verified
