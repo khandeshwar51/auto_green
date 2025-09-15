@@ -490,3 +490,6 @@
 ### [2025-09-14] - test(unit): add boundary condition validation test cases
 - **Timestamp**: 2025-09-14T16:24:39+05:30
 - **Status**: Completed and verified
+### [2025-09-15] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2025-09-15T19:44:43+05:30
+- **Status**: Completed and verified
