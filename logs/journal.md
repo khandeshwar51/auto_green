@@ -508,3 +508,6 @@
 ### [2025-09-18] - docs(notes): update system architecture and distributed consensus summary
 - **Timestamp**: 2025-09-18T14:52:31+05:30
 - **Status**: Completed and verified
+### [2025-09-18] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2025-09-18T23:57:34+05:30
+- **Status**: Completed and verified
