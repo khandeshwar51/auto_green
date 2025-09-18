@@ -502,3 +502,6 @@
 ### [2025-09-17] - refactor(core): optimize algorithmic time complexity and memory layout
 - **Timestamp**: 2025-09-17T10:25:45+05:30
 - **Status**: Completed and verified
+### [2025-09-18] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2025-09-18T14:18:21+05:30
+- **Status**: Completed and verified
