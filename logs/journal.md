@@ -526,3 +526,6 @@
 ### [2025-09-20] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2025-09-20T13:43:39+05:30
 - **Status**: Completed and verified
+### [2025-09-20] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2025-09-20T21:42:07+05:30
+- **Status**: Completed and verified
