@@ -520,3 +520,6 @@
 ### [2025-09-19] - refactor(core): optimize algorithmic time complexity and memory layout
 - **Timestamp**: 2025-09-19T21:06:18+05:30
 - **Status**: Completed and verified
+### [2025-09-20] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2025-09-20T10:16:40+05:30
+- **Status**: Completed and verified
