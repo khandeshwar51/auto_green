@@ -544,3 +544,6 @@
 ### [2025-09-23] - feat(web): enhance dark mode transition and UI accessibility
 - **Timestamp**: 2025-09-23T16:16:11+05:30
 - **Status**: Completed and verified
+### [2025-09-23] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2025-09-23T17:36:17+05:30
+- **Status**: Completed and verified
