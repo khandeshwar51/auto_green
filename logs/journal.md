@@ -547,3 +547,6 @@
 ### [2025-09-23] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2025-09-23T17:36:17+05:30
 - **Status**: Completed and verified
+### [2025-09-24] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2025-09-24T10:03:35+05:30
+- **Status**: Completed and verified
