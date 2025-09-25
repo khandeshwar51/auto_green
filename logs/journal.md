@@ -556,3 +556,6 @@
 ### [2025-09-25] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
 - **Timestamp**: 2025-09-25T11:04:02+05:30
 - **Status**: Completed and verified
+### [2025-09-25] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2025-09-25T14:21:05+05:30
+- **Status**: Completed and verified
