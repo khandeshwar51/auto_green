@@ -559,3 +559,6 @@
 ### [2025-09-25] - perf(dsa): reduce auxiliary space in merge sort routine
 - **Timestamp**: 2025-09-25T14:21:05+05:30
 - **Status**: Completed and verified
+### [2025-09-25] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2025-09-25T22:11:50+05:30
+- **Status**: Completed and verified
