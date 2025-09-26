@@ -562,3 +562,6 @@
 ### [2025-09-25] - chore(config): streamline build scripts and environment flags
 - **Timestamp**: 2025-09-25T22:11:50+05:30
 - **Status**: Completed and verified
+### [2025-09-26] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2025-09-26T12:26:15+05:30
+- **Status**: Completed and verified
