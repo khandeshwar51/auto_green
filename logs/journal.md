@@ -568,3 +568,6 @@
 ### [2025-09-27] - refactor(io): streamline file stream reader and buffer flushing
 - **Timestamp**: 2025-09-27T18:09:03+05:30
 - **Status**: Completed and verified
+### [2025-09-28] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2025-09-28T11:45:31+05:30
+- **Status**: Completed and verified
