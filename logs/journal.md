@@ -571,3 +571,6 @@
 ### [2025-09-28] - feat(dsa): add priority queue implementation using min-heap
 - **Timestamp**: 2025-09-28T11:45:31+05:30
 - **Status**: Completed and verified
+### [2025-09-28] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2025-09-28T16:54:02+05:30
+- **Status**: Completed and verified
