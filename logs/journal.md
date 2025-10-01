@@ -589,3 +589,6 @@
 ### [2025-09-30] - test(unit): add unit tests for string tokenization and hashing
 - **Timestamp**: 2025-09-30T20:29:21+05:30
 - **Status**: Completed and verified
+### [2025-10-01] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2025-10-01T20:54:14+05:30
+- **Status**: Completed and verified
