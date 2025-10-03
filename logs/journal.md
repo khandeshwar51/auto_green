@@ -601,3 +601,6 @@
 ### [2025-10-03] - feat(python): implement generator-based streaming parser
 - **Timestamp**: 2025-10-03T09:50:51+05:30
 - **Status**: Completed and verified
+### [2025-10-03] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2025-10-03T20:13:32+05:30
+- **Status**: Completed and verified
