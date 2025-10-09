@@ -634,3 +634,6 @@
 ### [2025-10-09] - perf(speed): optimize vector capacity allocation and pre-sizing
 - **Timestamp**: 2025-10-09T10:03:39+05:30
 - **Status**: Completed and verified
+### [2025-10-09] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2025-10-09T14:30:50+05:30
+- **Status**: Completed and verified
