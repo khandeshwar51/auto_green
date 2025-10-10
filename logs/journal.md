@@ -646,3 +646,6 @@
 ### [2025-10-10] - refactor(dsa): optimize recursive backtracking with bitmask pruning
 - **Timestamp**: 2025-10-10T15:52:27+05:30
 - **Status**: Completed and verified
+### [2025-10-10] - fix(memory): fix dangling pointer access in tree node deletion
+- **Timestamp**: 2025-10-10T17:34:09+05:30
+- **Status**: Completed and verified
