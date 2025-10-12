@@ -658,3 +658,6 @@
 ### [2025-10-11] - feat(web): update responsive component patterns and state hooks
 - **Timestamp**: 2025-10-11T22:22:12+05:30
 - **Status**: Completed and verified
+### [2025-10-12] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2025-10-12T23:48:52+05:30
+- **Status**: Completed and verified
