@@ -670,3 +670,6 @@
 ### [2025-10-14] - refactor(dsa): optimize recursive backtracking with bitmask pruning
 - **Timestamp**: 2025-10-14T15:33:34+05:30
 - **Status**: Completed and verified
+### [2025-10-15] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2025-10-15T12:44:29+05:30
+- **Status**: Completed and verified
