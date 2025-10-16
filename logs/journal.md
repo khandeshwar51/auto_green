@@ -679,3 +679,6 @@
 ### [2025-10-15] - refactor(clean-code): modularize utility functions and decouple handlers
 - **Timestamp**: 2025-10-15T20:18:58+05:30
 - **Status**: Completed and verified
+### [2025-10-16] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2025-10-16T13:39:55+05:30
+- **Status**: Completed and verified
