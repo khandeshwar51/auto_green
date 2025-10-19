@@ -706,3 +706,6 @@
 ### [2025-10-19] - test(unit): add boundary condition validation test cases
 - **Timestamp**: 2025-10-19T16:54:04+05:30
 - **Status**: Completed and verified
+### [2025-10-19] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2025-10-19T23:09:52+05:30
+- **Status**: Completed and verified
