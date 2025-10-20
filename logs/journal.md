@@ -712,3 +712,6 @@
 ### [2025-10-20] - refactor(dsa): streamline graph traversal and shortest path logic
 - **Timestamp**: 2025-10-20T12:55:04+05:30
 - **Status**: Completed and verified
+### [2025-10-20] - feat(dsa): add memoization to dynamic programming recurrence
+- **Timestamp**: 2025-10-20T15:12:38+05:30
+- **Status**: Completed and verified
