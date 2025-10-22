@@ -730,3 +730,6 @@
 ### [2025-10-22] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
 - **Timestamp**: 2025-10-22T14:39:16+05:30
 - **Status**: Completed and verified
+### [2025-10-22] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2025-10-22T21:30:21+05:30
+- **Status**: Completed and verified
