@@ -748,3 +748,6 @@
 ### [2025-10-24] - refactor(dsa): streamline graph traversal and shortest path logic
 - **Timestamp**: 2025-10-24T14:18:19+05:30
 - **Status**: Completed and verified
+### [2025-10-24] - fix(memory): fix dangling pointer access in tree node deletion
+- **Timestamp**: 2025-10-24T21:59:03+05:30
+- **Status**: Completed and verified
