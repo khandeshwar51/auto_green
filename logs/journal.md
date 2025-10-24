@@ -742,3 +742,6 @@
 ### [2025-10-23] - perf(query): optimize linear scan to binary search lookup
 - **Timestamp**: 2025-10-23T21:25:58+05:30
 - **Status**: Completed and verified
+### [2025-10-24] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2025-10-24T09:18:08+05:30
+- **Status**: Completed and verified
