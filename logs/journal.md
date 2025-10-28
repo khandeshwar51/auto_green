@@ -769,3 +769,6 @@
 ### [2025-10-27] - test(integration): verify data stream pipeline error recovery
 - **Timestamp**: 2025-10-27T16:20:22+05:30
 - **Status**: Completed and verified
+### [2025-10-28] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2025-10-28T10:50:51+05:30
+- **Status**: Completed and verified
