@@ -796,3 +796,6 @@
 ### [2025-11-01] - feat(dsa): implement binary search tree balance check
 - **Timestamp**: 2025-11-01T09:15:22+05:30
 - **Status**: Completed and verified
+### [2025-11-01] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2025-11-01T16:21:22+05:30
+- **Status**: Completed and verified
