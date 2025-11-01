@@ -799,3 +799,6 @@
 ### [2025-11-01] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2025-11-01T16:21:22+05:30
 - **Status**: Completed and verified
+### [2025-11-01] - feat(dsa): implement disjoint set union with path compression
+- **Timestamp**: 2025-11-01T21:06:44+05:30
+- **Status**: Completed and verified
