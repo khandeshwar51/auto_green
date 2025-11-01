@@ -793,3 +793,6 @@
 ### [2025-10-31] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2025-10-31T19:56:42+05:30
 - **Status**: Completed and verified
+### [2025-11-01] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2025-11-01T09:15:22+05:30
+- **Status**: Completed and verified
