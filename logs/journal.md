@@ -802,3 +802,6 @@
 ### [2025-11-01] - feat(dsa): implement disjoint set union with path compression
 - **Timestamp**: 2025-11-01T21:06:44+05:30
 - **Status**: Completed and verified
+### [2025-11-02] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2025-11-02T23:22:10+05:30
+- **Status**: Completed and verified
