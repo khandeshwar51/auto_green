@@ -844,3 +844,6 @@
 ### [2025-11-07] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2025-11-07T22:38:22+05:30
 - **Status**: Completed and verified
+### [2025-11-08] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2025-11-08T14:13:08+05:30
+- **Status**: Completed and verified
