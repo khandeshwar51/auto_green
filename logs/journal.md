@@ -853,3 +853,6 @@
 ### [2025-11-09] - docs(notes): add notes on CAP theorem and eventual consistency
 - **Timestamp**: 2025-11-09T18:43:59+05:30
 - **Status**: Completed and verified
+### [2025-11-10] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2025-11-10T15:09:57+05:30
+- **Status**: Completed and verified
