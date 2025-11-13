@@ -871,3 +871,6 @@
 ### [2025-11-13] - chore(tooling): update git attributes and repository metadata
 - **Timestamp**: 2025-11-13T09:05:09+05:30
 - **Status**: Completed and verified
+### [2025-11-13] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2025-11-13T14:45:34+05:30
+- **Status**: Completed and verified
