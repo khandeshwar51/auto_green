@@ -877,3 +877,6 @@
 ### [2025-11-13] - feat(dsa): implement disjoint set union with path compression
 - **Timestamp**: 2025-11-13T16:03:12+05:30
 - **Status**: Completed and verified
+### [2025-11-13] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2025-11-13T17:18:50+05:30
+- **Status**: Completed and verified
