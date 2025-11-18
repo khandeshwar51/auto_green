@@ -898,3 +898,6 @@
 ### [2025-11-17] - feat(algorithms): implement Kadane algorithm for maximum subarray sum
 - **Timestamp**: 2025-11-17T17:52:46+05:30
 - **Status**: Completed and verified
+### [2025-11-18] - feat(dsa): add memoization to dynamic programming recurrence
+- **Timestamp**: 2025-11-18T12:07:15+05:30
+- **Status**: Completed and verified
