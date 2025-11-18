@@ -907,3 +907,6 @@
 ### [2025-11-18] - feat(algorithms): implement Kadane algorithm for maximum subarray sum
 - **Timestamp**: 2025-11-18T17:41:00+05:30
 - **Status**: Completed and verified
+### [2025-11-18] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2025-11-18T22:47:48+05:30
+- **Status**: Completed and verified
