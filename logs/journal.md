@@ -901,3 +901,6 @@
 ### [2025-11-18] - feat(dsa): add memoization to dynamic programming recurrence
 - **Timestamp**: 2025-11-18T12:07:15+05:30
 - **Status**: Completed and verified
+### [2025-11-18] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2025-11-18T16:52:32+05:30
+- **Status**: Completed and verified
