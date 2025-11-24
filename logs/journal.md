@@ -949,3 +949,6 @@
 ### [2025-11-24] - docs(dsa): add complexity trade-offs for trie search implementation
 - **Timestamp**: 2025-11-24T19:15:51+05:30
 - **Status**: Completed and verified
+### [2025-11-24] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2025-11-24T21:37:36+05:30
+- **Status**: Completed and verified
