@@ -943,3 +943,6 @@
 ### [2025-11-24] - refactor(state): consolidate global store selectors and reducers
 - **Timestamp**: 2025-11-24T09:28:26+05:30
 - **Status**: Completed and verified
+### [2025-11-24] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2025-11-24T12:28:26+05:30
+- **Status**: Completed and verified
