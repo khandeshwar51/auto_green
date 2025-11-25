@@ -961,3 +961,6 @@
 ### [2025-11-25] - perf(speed): optimize vector capacity allocation and pre-sizing
 - **Timestamp**: 2025-11-25T16:58:58+05:30
 - **Status**: Completed and verified
+### [2025-11-25] - feat(dsa): add memoization to dynamic programming recurrence
+- **Timestamp**: 2025-11-25T19:22:02+05:30
+- **Status**: Completed and verified
