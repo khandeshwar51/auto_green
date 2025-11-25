@@ -955,3 +955,6 @@
 ### [2025-11-25] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2025-11-25T09:17:04+05:30
 - **Status**: Completed and verified
+### [2025-11-25] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2025-11-25T16:55:05+05:30
+- **Status**: Completed and verified
