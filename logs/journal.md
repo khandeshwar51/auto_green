@@ -970,3 +970,6 @@
 ### [2025-11-27] - feat(web): enhance dark mode transition and UI accessibility
 - **Timestamp**: 2025-11-27T10:16:33+05:30
 - **Status**: Completed and verified
+### [2025-11-27] - chore(tooling): update git attributes and repository metadata
+- **Timestamp**: 2025-11-27T17:51:20+05:30
+- **Status**: Completed and verified
