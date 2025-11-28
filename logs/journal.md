@@ -979,3 +979,6 @@
 ### [2025-11-28] - feat(systems): implement thread-safe buffer queue abstraction
 - **Timestamp**: 2025-11-28T13:07:58+05:30
 - **Status**: Completed and verified
+### [2025-11-28] - feat(dsa): implement disjoint set union with path compression
+- **Timestamp**: 2025-11-28T17:23:04+05:30
+- **Status**: Completed and verified
