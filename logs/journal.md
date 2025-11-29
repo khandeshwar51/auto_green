@@ -982,3 +982,6 @@
 ### [2025-11-28] - feat(dsa): implement disjoint set union with path compression
 - **Timestamp**: 2025-11-28T17:23:04+05:30
 - **Status**: Completed and verified
+### [2025-11-29] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2025-11-29T13:12:16+05:30
+- **Status**: Completed and verified
