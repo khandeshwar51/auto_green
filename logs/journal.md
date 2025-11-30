@@ -997,3 +997,6 @@
 ### [2025-11-30] - test(integration): verify data stream pipeline error recovery
 - **Timestamp**: 2025-11-30T15:13:01+05:30
 - **Status**: Completed and verified
+### [2025-11-30] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2025-11-30T23:13:00+05:30
+- **Status**: Completed and verified
