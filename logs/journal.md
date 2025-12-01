@@ -1000,3 +1000,6 @@
 ### [2025-11-30] - refactor(state): consolidate global store selectors and reducers
 - **Timestamp**: 2025-11-30T23:13:00+05:30
 - **Status**: Completed and verified
+### [2025-12-01] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2025-12-01T10:06:00+05:30
+- **Status**: Completed and verified
