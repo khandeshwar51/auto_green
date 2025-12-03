@@ -1018,3 +1018,6 @@
 ### [2025-12-03] - feat(dsa): add memoization to dynamic programming recurrence
 - **Timestamp**: 2025-12-03T15:37:04+05:30
 - **Status**: Completed and verified
+### [2025-12-03] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2025-12-03T18:03:17+05:30
+- **Status**: Completed and verified
