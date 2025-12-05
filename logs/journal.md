@@ -1024,3 +1024,6 @@
 ### [2025-12-04] - test(unit): add boundary condition validation test cases
 - **Timestamp**: 2025-12-04T09:56:30+05:30
 - **Status**: Completed and verified
+### [2025-12-05] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2025-12-05T12:59:01+05:30
+- **Status**: Completed and verified
