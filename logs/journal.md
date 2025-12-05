@@ -1027,3 +1027,6 @@
 ### [2025-12-05] - fix(parser): resolve edge-case indexing and token boundary handling
 - **Timestamp**: 2025-12-05T12:59:01+05:30
 - **Status**: Completed and verified
+### [2025-12-05] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2025-12-05T23:10:08+05:30
+- **Status**: Completed and verified
