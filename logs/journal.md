@@ -1045,3 +1045,6 @@
 ### [2025-12-07] - feat(dsa): implement disjoint set union with path compression
 - **Timestamp**: 2025-12-07T16:25:21+05:30
 - **Status**: Completed and verified
+### [2025-12-07] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2025-12-07T16:33:02+05:30
+- **Status**: Completed and verified
