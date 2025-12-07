@@ -1048,3 +1048,6 @@
 ### [2025-12-07] - docs(notes): add notes on CAP theorem and eventual consistency
 - **Timestamp**: 2025-12-07T16:33:02+05:30
 - **Status**: Completed and verified
+### [2025-12-07] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2025-12-07T21:40:47+05:30
+- **Status**: Completed and verified
