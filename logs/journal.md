@@ -1093,3 +1093,6 @@
 ### [2025-12-14] - feat(dsa): implement disjoint set union with path compression
 - **Timestamp**: 2025-12-14T14:39:47+05:30
 - **Status**: Completed and verified
+### [2025-12-14] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2025-12-14T16:02:59+05:30
+- **Status**: Completed and verified
