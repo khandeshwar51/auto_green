@@ -1105,3 +1105,6 @@
 ### [2025-12-16] - perf(algorithms): refine two-pointer sliding window routines
 - **Timestamp**: 2025-12-16T09:11:18+05:30
 - **Status**: Completed and verified
+### [2025-12-16] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2025-12-16T16:31:06+05:30
+- **Status**: Completed and verified
