@@ -1111,3 +1111,6 @@
 ### [2025-12-17] - docs(notes): update system architecture and distributed consensus summary
 - **Timestamp**: 2025-12-17T14:57:56+05:30
 - **Status**: Completed and verified
+### [2025-12-17] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2025-12-17T17:53:29+05:30
+- **Status**: Completed and verified
