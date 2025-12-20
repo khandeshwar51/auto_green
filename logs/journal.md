@@ -1135,3 +1135,6 @@
 ### [2025-12-19] - docs(dsa): add complexity trade-offs for trie search implementation
 - **Timestamp**: 2025-12-19T22:44:24+05:30
 - **Status**: Completed and verified
+### [2025-12-20] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2025-12-20T09:01:16+05:30
+- **Status**: Completed and verified
