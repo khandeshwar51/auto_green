@@ -1153,3 +1153,6 @@
 ### [2025-12-22] - feat(dsa): implement LRU cache with hash map and doubly linked list
 - **Timestamp**: 2025-12-22T13:46:44+05:30
 - **Status**: Completed and verified
+### [2025-12-22] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2025-12-22T20:16:58+05:30
+- **Status**: Completed and verified
