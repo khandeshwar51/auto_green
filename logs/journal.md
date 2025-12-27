@@ -1174,3 +1174,6 @@
 ### [2025-12-26] - docs(system): document microservices event-driven messaging patterns
 - **Timestamp**: 2025-12-26T18:35:29+05:30
 - **Status**: Completed and verified
+### [2025-12-27] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2025-12-27T20:47:53+05:30
+- **Status**: Completed and verified
