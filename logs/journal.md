@@ -1183,3 +1183,6 @@
 ### [2025-12-29] - refactor(types): strengthen type annotations and interfaces
 - **Timestamp**: 2025-12-29T15:43:17+05:30
 - **Status**: Completed and verified
+### [2025-12-29] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2025-12-29T16:22:55+05:30
+- **Status**: Completed and verified
