@@ -1192,3 +1192,6 @@
 ### [2025-12-30] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2025-12-30T18:25:23+05:30
 - **Status**: Completed and verified
+### [2025-12-30] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2025-12-30T18:50:24+05:30
+- **Status**: Completed and verified
