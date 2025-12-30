@@ -1189,3 +1189,6 @@
 ### [2025-12-30] - feat(systems): implement thread-safe buffer queue abstraction
 - **Timestamp**: 2025-12-30T09:35:23+05:30
 - **Status**: Completed and verified
+### [2025-12-30] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2025-12-30T18:25:23+05:30
+- **Status**: Completed and verified
