@@ -1207,3 +1207,6 @@
 ### [2026-01-01] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2026-01-01T15:40:59+05:30
 - **Status**: Completed and verified
+### [2026-01-01] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2026-01-01T23:09:09+05:30
+- **Status**: Completed and verified
