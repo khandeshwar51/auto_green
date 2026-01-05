@@ -1231,3 +1231,6 @@
 ### [2026-01-05] - fix(null-check): add safety guards for uninitialized pointers
 - **Timestamp**: 2026-01-05T13:26:14+05:30
 - **Status**: Completed and verified
+### [2026-01-05] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-01-05T18:31:32+05:30
+- **Status**: Completed and verified
