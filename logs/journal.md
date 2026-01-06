@@ -1234,3 +1234,6 @@
 ### [2026-01-05] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2026-01-05T18:31:32+05:30
 - **Status**: Completed and verified
+### [2026-01-06] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2026-01-06T14:18:21+05:30
+- **Status**: Completed and verified
