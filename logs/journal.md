@@ -1240,3 +1240,6 @@
 ### [2026-01-06] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2026-01-06T19:45:50+05:30
 - **Status**: Completed and verified
+### [2026-01-07] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2026-01-07T15:03:29+05:30
+- **Status**: Completed and verified
