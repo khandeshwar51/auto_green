@@ -1249,3 +1249,6 @@
 ### [2026-01-08] - fix(memory): fix dangling pointer access in tree node deletion
 - **Timestamp**: 2026-01-08T09:18:43+05:30
 - **Status**: Completed and verified
+### [2026-01-08] - feat(dsa): add memoization to dynamic programming recurrence
+- **Timestamp**: 2026-01-08T20:32:31+05:30
+- **Status**: Completed and verified
