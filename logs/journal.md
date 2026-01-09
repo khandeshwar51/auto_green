@@ -1252,3 +1252,6 @@
 ### [2026-01-08] - feat(dsa): add memoization to dynamic programming recurrence
 - **Timestamp**: 2026-01-08T20:32:31+05:30
 - **Status**: Completed and verified
+### [2026-01-09] - feat(dsa): implement LRU cache with hash map and doubly linked list
+- **Timestamp**: 2026-01-09T12:38:53+05:30
+- **Status**: Completed and verified
