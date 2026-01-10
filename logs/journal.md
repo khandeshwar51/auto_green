@@ -1261,3 +1261,6 @@
 ### [2026-01-10] - feat(react): build reusable modal and drawer component primitives
 - **Timestamp**: 2026-01-10T15:05:27+05:30
 - **Status**: Completed and verified
+### [2026-01-10] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2026-01-10T20:08:06+05:30
+- **Status**: Completed and verified
