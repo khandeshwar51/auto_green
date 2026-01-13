@@ -1282,3 +1282,6 @@
 ### [2026-01-12] - feat(api): add request schema validation and error boundary
 - **Timestamp**: 2026-01-12T23:02:21+05:30
 - **Status**: Completed and verified
+### [2026-01-13] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-01-13T12:36:43+05:30
+- **Status**: Completed and verified
