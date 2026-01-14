@@ -1294,3 +1294,6 @@
 ### [2026-01-13] - docs(system): document microservices event-driven messaging patterns
 - **Timestamp**: 2026-01-13T21:31:56+05:30
 - **Status**: Completed and verified
+### [2026-01-14] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2026-01-14T09:13:31+05:30
+- **Status**: Completed and verified
