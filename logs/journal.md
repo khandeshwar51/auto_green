@@ -1297,3 +1297,6 @@
 ### [2026-01-14] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
 - **Timestamp**: 2026-01-14T09:13:31+05:30
 - **Status**: Completed and verified
+### [2026-01-15] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-01-15T09:13:33+05:30
+- **Status**: Completed and verified
