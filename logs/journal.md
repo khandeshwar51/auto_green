@@ -1306,3 +1306,6 @@
 ### [2026-01-16] - docs(journal): update daily study notes and coding reflections
 - **Timestamp**: 2026-01-16T09:11:00+05:30
 - **Status**: Completed and verified
+### [2026-01-16] - feat(dsa): implement LRU cache with hash map and doubly linked list
+- **Timestamp**: 2026-01-16T14:02:57+05:30
+- **Status**: Completed and verified
