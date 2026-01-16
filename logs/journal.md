@@ -1309,3 +1309,6 @@
 ### [2026-01-16] - feat(dsa): implement LRU cache with hash map and doubly linked list
 - **Timestamp**: 2026-01-16T14:02:57+05:30
 - **Status**: Completed and verified
+### [2026-01-16] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-01-16T19:08:18+05:30
+- **Status**: Completed and verified
