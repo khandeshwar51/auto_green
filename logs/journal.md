@@ -1324,3 +1324,6 @@
 ### [2026-01-18] - feat(web): update responsive component patterns and state hooks
 - **Timestamp**: 2026-01-18T18:18:36+05:30
 - **Status**: Completed and verified
+### [2026-01-18] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2026-01-18T20:17:11+05:30
+- **Status**: Completed and verified
