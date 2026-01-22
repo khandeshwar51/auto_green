@@ -1348,3 +1348,6 @@
 ### [2026-01-21] - feat(dsa): add priority queue implementation using min-heap
 - **Timestamp**: 2026-01-21T20:15:43+05:30
 - **Status**: Completed and verified
+### [2026-01-22] - feat(algorithms): implement Kadane algorithm for maximum subarray sum
+- **Timestamp**: 2026-01-22T09:08:18+05:30
+- **Status**: Completed and verified
