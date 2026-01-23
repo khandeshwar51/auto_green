@@ -1357,3 +1357,6 @@
 ### [2026-01-22] - perf(algorithms): refine two-pointer sliding window routines
 - **Timestamp**: 2026-01-22T19:57:02+05:30
 - **Status**: Completed and verified
+### [2026-01-23] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-01-23T13:48:52+05:30
+- **Status**: Completed and verified
