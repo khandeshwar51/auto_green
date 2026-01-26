@@ -1390,3 +1390,6 @@
 ### [2026-01-25] - fix(null-check): add safety guards for uninitialized pointers
 - **Timestamp**: 2026-01-25T20:53:27+05:30
 - **Status**: Completed and verified
+### [2026-01-26] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-01-26T13:31:03+05:30
+- **Status**: Completed and verified
