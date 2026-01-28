@@ -1417,3 +1417,6 @@
 ### [2026-01-28] - feat(dsa): add memoization to dynamic programming recurrence
 - **Timestamp**: 2026-01-28T17:53:15+05:30
 - **Status**: Completed and verified
+### [2026-01-28] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2026-01-28T23:05:49+05:30
+- **Status**: Completed and verified
