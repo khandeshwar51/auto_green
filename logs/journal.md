@@ -1411,3 +1411,6 @@
 ### [2026-01-28] - refactor(clean-code): modularize utility functions and decouple handlers
 - **Timestamp**: 2026-01-28T13:56:39+05:30
 - **Status**: Completed and verified
+### [2026-01-28] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2026-01-28T14:35:01+05:30
+- **Status**: Completed and verified
