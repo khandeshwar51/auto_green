@@ -1453,3 +1453,6 @@
 ### [2026-02-03] - feat(dsa): add priority queue implementation using min-heap
 - **Timestamp**: 2026-02-03T15:28:42+05:30
 - **Status**: Completed and verified
+### [2026-02-03] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2026-02-03T17:11:08+05:30
+- **Status**: Completed and verified
