@@ -1462,3 +1462,6 @@
 ### [2026-02-03] - chore(lint): fix compiler warnings and align formatting style
 - **Timestamp**: 2026-02-03T22:25:17+05:30
 - **Status**: Completed and verified
+### [2026-02-04] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2026-02-04T10:33:07+05:30
+- **Status**: Completed and verified
