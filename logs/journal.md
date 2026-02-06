@@ -1486,3 +1486,6 @@
 ### [2026-02-06] - chore(tooling): update git attributes and repository metadata
 - **Timestamp**: 2026-02-06T12:07:37+05:30
 - **Status**: Completed and verified
+### [2026-02-06] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-02-06T13:34:09+05:30
+- **Status**: Completed and verified
