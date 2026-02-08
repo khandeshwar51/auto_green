@@ -1510,3 +1510,6 @@
 ### [2026-02-08] - chore(lint): fix compiler warnings and align formatting style
 - **Timestamp**: 2026-02-08T16:20:23+05:30
 - **Status**: Completed and verified
+### [2026-02-08] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-02-08T21:50:17+05:30
+- **Status**: Completed and verified
