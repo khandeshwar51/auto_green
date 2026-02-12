@@ -1537,3 +1537,6 @@
 ### [2026-02-12] - docs(notes): add notes on CAP theorem and eventual consistency
 - **Timestamp**: 2026-02-12T16:45:23+05:30
 - **Status**: Completed and verified
+### [2026-02-12] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2026-02-12T21:26:05+05:30
+- **Status**: Completed and verified
