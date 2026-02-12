@@ -1534,3 +1534,6 @@
 ### [2026-02-12] - perf(cache): improve cache locality for sequential matrix access
 - **Timestamp**: 2026-02-12T14:07:11+05:30
 - **Status**: Completed and verified
+### [2026-02-12] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-02-12T16:45:23+05:30
+- **Status**: Completed and verified
