@@ -1543,3 +1543,6 @@
 ### [2026-02-13] - feat(dsa): add priority queue implementation using min-heap
 - **Timestamp**: 2026-02-13T13:55:33+05:30
 - **Status**: Completed and verified
+### [2026-02-13] - feat(dsa): implement LRU cache with hash map and doubly linked list
+- **Timestamp**: 2026-02-13T18:17:35+05:30
+- **Status**: Completed and verified
