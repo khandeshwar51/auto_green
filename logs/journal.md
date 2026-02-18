@@ -1576,3 +1576,6 @@
 ### [2026-02-18] - refactor(dsa): optimize recursive backtracking with bitmask pruning
 - **Timestamp**: 2026-02-18T14:22:55+05:30
 - **Status**: Completed and verified
+### [2026-02-18] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2026-02-18T14:59:10+05:30
+- **Status**: Completed and verified
