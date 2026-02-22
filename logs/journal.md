@@ -1603,3 +1603,6 @@
 ### [2026-02-22] - test(integration): verify data stream pipeline error recovery
 - **Timestamp**: 2026-02-22T09:48:56+05:30
 - **Status**: Completed and verified
+### [2026-02-22] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-02-22T17:46:48+05:30
+- **Status**: Completed and verified
