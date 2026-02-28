@@ -1642,3 +1642,6 @@
 ### [2026-02-28] - chore(tooling): update git attributes and repository metadata
 - **Timestamp**: 2026-02-28T15:49:41+05:30
 - **Status**: Completed and verified
+### [2026-02-28] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-02-28T19:26:05+05:30
+- **Status**: Completed and verified
