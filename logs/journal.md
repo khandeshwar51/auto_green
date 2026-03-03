@@ -1654,3 +1654,6 @@
 ### [2026-03-02] - feat(react): build reusable modal and drawer component primitives
 - **Timestamp**: 2026-03-02T20:23:26+05:30
 - **Status**: Completed and verified
+### [2026-03-03] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-03-03T14:26:06+05:30
+- **Status**: Completed and verified
