@@ -1669,3 +1669,6 @@
 ### [2026-03-05] - refactor(clean-code): modularize utility functions and decouple handlers
 - **Timestamp**: 2026-03-05T13:32:11+05:30
 - **Status**: Completed and verified
+### [2026-03-05] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2026-03-05T21:55:42+05:30
+- **Status**: Completed and verified
