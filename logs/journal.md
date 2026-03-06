@@ -1681,3 +1681,6 @@
 ### [2026-03-06] - fix(memory): fix dangling pointer access in tree node deletion
 - **Timestamp**: 2026-03-06T17:16:59+05:30
 - **Status**: Completed and verified
+### [2026-03-06] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2026-03-06T19:51:40+05:30
+- **Status**: Completed and verified
