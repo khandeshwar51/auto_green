@@ -1696,3 +1696,6 @@
 ### [2026-03-08] - test(unit): add boundary condition validation test cases
 - **Timestamp**: 2026-03-08T16:24:12+05:30
 - **Status**: Completed and verified
+### [2026-03-08] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2026-03-08T20:36:23+05:30
+- **Status**: Completed and verified
