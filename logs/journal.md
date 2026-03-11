@@ -1720,3 +1720,6 @@
 ### [2026-03-11] - fix(memory): fix dangling pointer access in tree node deletion
 - **Timestamp**: 2026-03-11T16:15:04+05:30
 - **Status**: Completed and verified
+### [2026-03-11] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2026-03-11T20:27:15+05:30
+- **Status**: Completed and verified
