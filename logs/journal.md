@@ -1729,3 +1729,6 @@
 ### [2026-03-12] - chore(tooling): update git attributes and repository metadata
 - **Timestamp**: 2026-03-12T14:10:22+05:30
 - **Status**: Completed and verified
+### [2026-03-12] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2026-03-12T19:38:08+05:30
+- **Status**: Completed and verified
