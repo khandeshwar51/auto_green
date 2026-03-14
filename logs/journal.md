@@ -1738,3 +1738,6 @@
 ### [2026-03-13] - perf(memory): reduce heap allocations in data processing pipeline
 - **Timestamp**: 2026-03-13T22:12:54+05:30
 - **Status**: Completed and verified
+### [2026-03-14] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-03-14T12:02:37+05:30
+- **Status**: Completed and verified
