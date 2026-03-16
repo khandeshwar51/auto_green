@@ -1750,3 +1750,6 @@
 ### [2026-03-15] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
 - **Timestamp**: 2026-03-15T23:00:48+05:30
 - **Status**: Completed and verified
+### [2026-03-16] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2026-03-16T22:59:04+05:30
+- **Status**: Completed and verified
