@@ -1765,3 +1765,6 @@
 ### [2026-03-18] - test(fuzz): add randomized property-based tests for sorting algorithms
 - **Timestamp**: 2026-03-18T13:35:03+05:30
 - **Status**: Completed and verified
+### [2026-03-18] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-03-18T22:13:24+05:30
+- **Status**: Completed and verified
