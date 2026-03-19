@@ -1768,3 +1768,6 @@
 ### [2026-03-18] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2026-03-18T22:13:24+05:30
 - **Status**: Completed and verified
+### [2026-03-19] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-03-19T13:02:00+05:30
+- **Status**: Completed and verified
