@@ -1789,3 +1789,6 @@
 ### [2026-03-21] - feat(web): update responsive component patterns and state hooks
 - **Timestamp**: 2026-03-21T15:44:38+05:30
 - **Status**: Completed and verified
+### [2026-03-21] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2026-03-21T21:41:34+05:30
+- **Status**: Completed and verified
