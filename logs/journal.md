@@ -1792,3 +1792,6 @@
 ### [2026-03-21] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2026-03-21T21:41:34+05:30
 - **Status**: Completed and verified
+### [2026-03-22] - feat(react): build reusable modal and drawer component primitives
+- **Timestamp**: 2026-03-22T23:36:12+05:30
+- **Status**: Completed and verified
