@@ -1816,3 +1816,6 @@
 ### [2026-03-24] - docs(journal): sync daily engineering notes and milestone metrics
 - **Timestamp**: 2026-03-24T20:47:51+05:30
 - **Status**: Completed and verified
+### [2026-03-25] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2026-03-25T13:45:59+05:30
+- **Status**: Completed and verified
