@@ -1834,3 +1834,6 @@
 ### [2026-03-27] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2026-03-27T10:04:40+05:30
 - **Status**: Completed and verified
+### [2026-03-27] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2026-03-27T18:02:38+05:30
+- **Status**: Completed and verified
