@@ -1876,3 +1876,6 @@
 ### [2026-03-31] - perf(algorithms): refine two-pointer sliding window routines
 - **Timestamp**: 2026-03-31T09:57:22+05:30
 - **Status**: Completed and verified
+### [2026-03-31] - feat(dsa): implement LRU cache with hash map and doubly linked list
+- **Timestamp**: 2026-03-31T23:37:24+05:30
+- **Status**: Completed and verified
