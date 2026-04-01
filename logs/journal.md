@@ -1879,3 +1879,6 @@
 ### [2026-03-31] - feat(dsa): implement LRU cache with hash map and doubly linked list
 - **Timestamp**: 2026-03-31T23:37:24+05:30
 - **Status**: Completed and verified
+### [2026-04-01] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2026-04-01T10:37:06+05:30
+- **Status**: Completed and verified
