@@ -1891,3 +1891,6 @@
 ### [2026-04-03] - docs(system): document microservices event-driven messaging patterns
 - **Timestamp**: 2026-04-03T10:11:35+05:30
 - **Status**: Completed and verified
+### [2026-04-03] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-04-03T16:36:47+05:30
+- **Status**: Completed and verified
