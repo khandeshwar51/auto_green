@@ -1903,3 +1903,6 @@
 ### [2026-04-05] - perf(speed): optimize vector capacity allocation and pre-sizing
 - **Timestamp**: 2026-04-05T13:08:14+05:30
 - **Status**: Completed and verified
+### [2026-04-05] - feat(dsa): implement disjoint set union with path compression
+- **Timestamp**: 2026-04-05T15:09:48+05:30
+- **Status**: Completed and verified
