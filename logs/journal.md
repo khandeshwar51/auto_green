@@ -1921,3 +1921,6 @@
 ### [2026-04-07] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2026-04-07T11:11:29+05:30
 - **Status**: Completed and verified
+### [2026-04-07] - docs(dsa): add complexity trade-offs for trie search implementation
+- **Timestamp**: 2026-04-07T12:48:00+05:30
+- **Status**: Completed and verified
