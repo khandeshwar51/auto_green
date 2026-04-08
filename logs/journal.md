@@ -1930,3 +1930,6 @@
 ### [2026-04-07] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2026-04-07T23:23:01+05:30
 - **Status**: Completed and verified
+### [2026-04-08] - feat(api): add request schema validation and error boundary
+- **Timestamp**: 2026-04-08T10:16:48+05:30
+- **Status**: Completed and verified
