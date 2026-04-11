@@ -1948,3 +1948,6 @@
 ### [2026-04-11] - refactor(clean-code): modularize utility functions and decouple handlers
 - **Timestamp**: 2026-04-11T14:18:31+05:30
 - **Status**: Completed and verified
+### [2026-04-11] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-04-11T16:06:09+05:30
+- **Status**: Completed and verified
