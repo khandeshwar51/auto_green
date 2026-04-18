@@ -1996,3 +1996,6 @@
 ### [2026-04-18] - feat(python): implement generator-based streaming parser
 - **Timestamp**: 2026-04-18T15:36:01+05:30
 - **Status**: Completed and verified
+### [2026-04-18] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-04-18T17:56:31+05:30
+- **Status**: Completed and verified
