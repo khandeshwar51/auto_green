@@ -2002,3 +2002,6 @@
 ### [2026-04-18] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
 - **Timestamp**: 2026-04-18T19:57:39+05:30
 - **Status**: Completed and verified
+### [2026-04-18] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2026-04-18T20:00:39+05:30
+- **Status**: Completed and verified
