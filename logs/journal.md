@@ -2050,3 +2050,6 @@
 ### [2026-04-24] - docs(journal): update daily study notes and coding reflections
 - **Timestamp**: 2026-04-24T15:15:40+05:30
 - **Status**: Completed and verified
+### [2026-04-24] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-04-24T17:32:04+05:30
+- **Status**: Completed and verified
