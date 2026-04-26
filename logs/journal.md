@@ -2062,3 +2062,6 @@
 ### [2026-04-26] - perf(cache): improve cache locality for sequential matrix access
 - **Timestamp**: 2026-04-26T11:29:47+05:30
 - **Status**: Completed and verified
+### [2026-04-26] - fix(memory): fix dangling pointer access in tree node deletion
+- **Timestamp**: 2026-04-26T14:03:09+05:30
+- **Status**: Completed and verified
