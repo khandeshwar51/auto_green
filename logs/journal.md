@@ -2065,3 +2065,6 @@
 ### [2026-04-26] - fix(memory): fix dangling pointer access in tree node deletion
 - **Timestamp**: 2026-04-26T14:03:09+05:30
 - **Status**: Completed and verified
+### [2026-04-26] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2026-04-26T17:05:31+05:30
+- **Status**: Completed and verified
