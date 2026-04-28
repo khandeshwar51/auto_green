@@ -2089,3 +2089,6 @@
 ### [2026-04-28] - feat(systems): implement thread-safe buffer queue abstraction
 - **Timestamp**: 2026-04-28T17:32:20+05:30
 - **Status**: Completed and verified
+### [2026-04-28] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2026-04-28T20:31:42+05:30
+- **Status**: Completed and verified
