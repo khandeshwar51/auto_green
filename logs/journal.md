@@ -2092,3 +2092,6 @@
 ### [2026-04-28] - refactor(state): consolidate global store selectors and reducers
 - **Timestamp**: 2026-04-28T20:31:42+05:30
 - **Status**: Completed and verified
+### [2026-04-29] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-04-29T13:54:20+05:30
+- **Status**: Completed and verified
