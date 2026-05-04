@@ -2125,3 +2125,6 @@
 ### [2026-05-03] - docs(dsa): add complexity trade-offs for trie search implementation
 - **Timestamp**: 2026-05-03T15:35:56+05:30
 - **Status**: Completed and verified
+### [2026-05-04] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-05-04T11:10:56+05:30
+- **Status**: Completed and verified
