@@ -2149,3 +2149,6 @@
 ### [2026-05-05] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2026-05-05T21:21:48+05:30
 - **Status**: Completed and verified
+### [2026-05-06] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-05-06T11:21:53+05:30
+- **Status**: Completed and verified
