@@ -2152,3 +2152,6 @@
 ### [2026-05-06] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2026-05-06T11:21:53+05:30
 - **Status**: Completed and verified
+### [2026-05-06] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2026-05-06T19:03:04+05:30
+- **Status**: Completed and verified
