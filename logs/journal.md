@@ -2167,3 +2167,6 @@
 ### [2026-05-07] - feat(web): enhance dark mode transition and UI accessibility
 - **Timestamp**: 2026-05-07T19:03:09+05:30
 - **Status**: Completed and verified
+### [2026-05-08] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2026-05-08T10:03:10+05:30
+- **Status**: Completed and verified
