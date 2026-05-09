@@ -2182,3 +2182,6 @@
 ### [2026-05-08] - perf(cache): improve cache locality for sequential matrix access
 - **Timestamp**: 2026-05-08T23:57:50+05:30
 - **Status**: Completed and verified
+### [2026-05-09] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2026-05-09T16:00:42+05:30
+- **Status**: Completed and verified
