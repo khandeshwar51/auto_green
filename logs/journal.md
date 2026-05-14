@@ -2218,3 +2218,6 @@
 ### [2026-05-13] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2026-05-13T17:32:12+05:30
 - **Status**: Completed and verified
+### [2026-05-14] - feat(dsa): implement LRU cache with hash map and doubly linked list
+- **Timestamp**: 2026-05-14T19:09:31+05:30
+- **Status**: Completed and verified
