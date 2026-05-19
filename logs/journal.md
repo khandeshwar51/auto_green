@@ -2251,3 +2251,6 @@
 ### [2026-05-19] - chore(lint): fix compiler warnings and align formatting style
 - **Timestamp**: 2026-05-19T10:16:13+05:30
 - **Status**: Completed and verified
+### [2026-05-19] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2026-05-19T18:10:17+05:30
+- **Status**: Completed and verified
