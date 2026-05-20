@@ -2254,3 +2254,6 @@
 ### [2026-05-19] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2026-05-19T18:10:17+05:30
 - **Status**: Completed and verified
+### [2026-05-20] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2026-05-20T14:48:53+05:30
+- **Status**: Completed and verified
