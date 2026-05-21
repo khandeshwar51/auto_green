@@ -2266,3 +2266,6 @@
 ### [2026-05-21] - feat(dsa): implement binary search tree balance check
 - **Timestamp**: 2026-05-21T11:35:49+05:30
 - **Status**: Completed and verified
+### [2026-05-21] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2026-05-21T12:01:48+05:30
+- **Status**: Completed and verified
