@@ -2278,3 +2278,6 @@
 ### [2026-05-21] - docs(dsa): add complexity trade-offs for trie search implementation
 - **Timestamp**: 2026-05-21T21:23:33+05:30
 - **Status**: Completed and verified
+### [2026-05-22] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2026-05-22T14:06:40+05:30
+- **Status**: Completed and verified
