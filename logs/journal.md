@@ -2293,3 +2293,6 @@
 ### [2026-05-24] - docs(journal): sync daily engineering notes and milestone metrics
 - **Timestamp**: 2026-05-24T14:55:06+05:30
 - **Status**: Completed and verified
+### [2026-05-24] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2026-05-24T22:52:54+05:30
+- **Status**: Completed and verified
