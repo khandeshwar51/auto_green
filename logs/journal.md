@@ -2305,3 +2305,6 @@
 ### [2026-05-26] - chore(config): streamline build scripts and environment flags
 - **Timestamp**: 2026-05-26T10:39:56+05:30
 - **Status**: Completed and verified
+### [2026-05-26] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-05-26T21:02:06+05:30
+- **Status**: Completed and verified
