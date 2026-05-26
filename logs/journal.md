@@ -2302,3 +2302,6 @@
 ### [2026-05-25] - test(fuzz): add randomized property-based tests for sorting algorithms
 - **Timestamp**: 2026-05-25T17:59:52+05:30
 - **Status**: Completed and verified
+### [2026-05-26] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2026-05-26T10:39:56+05:30
+- **Status**: Completed and verified
