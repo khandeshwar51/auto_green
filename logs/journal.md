@@ -2311,3 +2311,6 @@
 ### [2026-05-27] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2026-05-27T14:11:43+05:30
 - **Status**: Completed and verified
+### [2026-05-27] - test(fuzz): add randomized property-based tests for sorting algorithms
+- **Timestamp**: 2026-05-27T18:23:19+05:30
+- **Status**: Completed and verified
