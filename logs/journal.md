@@ -2308,3 +2308,6 @@
 ### [2026-05-26] - docs(notes): add notes on CAP theorem and eventual consistency
 - **Timestamp**: 2026-05-26T21:02:06+05:30
 - **Status**: Completed and verified
+### [2026-05-27] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2026-05-27T14:11:43+05:30
+- **Status**: Completed and verified
