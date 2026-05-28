@@ -2320,3 +2320,6 @@
 ### [2026-05-28] - docs(dsa): add amortized time complexity proof for dynamic arrays
 - **Timestamp**: 2026-05-28T10:24:37+05:30
 - **Status**: Completed and verified
+### [2026-05-28] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-05-28T17:10:37+05:30
+- **Status**: Completed and verified
