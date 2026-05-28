@@ -2317,3 +2317,6 @@
 ### [2026-05-27] - perf(memory): reduce heap allocations in data processing pipeline
 - **Timestamp**: 2026-05-27T18:27:31+05:30
 - **Status**: Completed and verified
+### [2026-05-28] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-05-28T10:24:37+05:30
+- **Status**: Completed and verified
