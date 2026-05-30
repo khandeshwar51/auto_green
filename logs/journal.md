@@ -2332,3 +2332,6 @@
 ### [2026-05-29] - docs(journal): sync daily engineering notes and milestone metrics
 - **Timestamp**: 2026-05-29T23:00:04+05:30
 - **Status**: Completed and verified
+### [2026-05-30] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2026-05-30T13:44:44+05:30
+- **Status**: Completed and verified
