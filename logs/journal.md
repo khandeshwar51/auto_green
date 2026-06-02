@@ -2353,3 +2353,6 @@
 ### [2026-06-02] - perf(cache): improve cache locality for sequential matrix access
 - **Timestamp**: 2026-06-02T15:28:25+05:30
 - **Status**: Completed and verified
+### [2026-06-02] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2026-06-02T15:50:58+05:30
+- **Status**: Completed and verified
