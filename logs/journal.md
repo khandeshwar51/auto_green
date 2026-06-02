@@ -2359,3 +2359,6 @@
 ### [2026-06-02] - feat(dsa): implement binary search tree balance check
 - **Timestamp**: 2026-06-02T19:01:54+05:30
 - **Status**: Completed and verified
+### [2026-06-02] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2026-06-02T23:01:13+05:30
+- **Status**: Completed and verified
