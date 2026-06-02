@@ -2347,3 +2347,6 @@
 ### [2026-06-01] - feat(web): enhance dark mode transition and UI accessibility
 - **Timestamp**: 2026-06-01T15:37:29+05:30
 - **Status**: Completed and verified
+### [2026-06-02] - refactor(clean-code): modularize utility functions and decouple handlers
+- **Timestamp**: 2026-06-02T11:03:06+05:30
+- **Status**: Completed and verified
