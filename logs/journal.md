@@ -2377,3 +2377,6 @@
 ### [2026-06-04] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2026-06-04T15:07:07+05:30
 - **Status**: Completed and verified
+### [2026-06-04] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-06-04T22:09:16+05:30
+- **Status**: Completed and verified
