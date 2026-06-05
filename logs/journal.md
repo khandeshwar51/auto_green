@@ -2380,3 +2380,6 @@
 ### [2026-06-04] - docs(notes): add notes on CAP theorem and eventual consistency
 - **Timestamp**: 2026-06-04T22:09:16+05:30
 - **Status**: Completed and verified
+### [2026-06-05] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2026-06-05T10:42:46+05:30
+- **Status**: Completed and verified
