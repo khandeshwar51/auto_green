@@ -2383,3 +2383,6 @@
 ### [2026-06-05] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
 - **Timestamp**: 2026-06-05T10:42:46+05:30
 - **Status**: Completed and verified
+### [2026-06-05] - refactor(dsa): streamline graph traversal and shortest path logic
+- **Timestamp**: 2026-06-05T22:50:20+05:30
+- **Status**: Completed and verified
