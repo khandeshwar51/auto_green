@@ -2395,3 +2395,6 @@
 ### [2026-06-06] - fix(parser): resolve edge-case indexing and token boundary handling
 - **Timestamp**: 2026-06-06T22:21:54+05:30
 - **Status**: Completed and verified
+### [2026-06-07] - docs(system): document microservices event-driven messaging patterns
+- **Timestamp**: 2026-06-07T14:06:25+05:30
+- **Status**: Completed and verified
