@@ -2446,3 +2446,6 @@
 ### [2026-06-14] - docs(dsa): add amortized time complexity proof for dynamic arrays
 - **Timestamp**: 2026-06-14T13:05:38+05:30
 - **Status**: Completed and verified
+### [2026-06-14] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2026-06-14T15:58:56+05:30
+- **Status**: Completed and verified
