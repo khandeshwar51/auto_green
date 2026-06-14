@@ -2443,3 +2443,6 @@
 ### [2026-06-13] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2026-06-13T18:30:11+05:30
 - **Status**: Completed and verified
+### [2026-06-14] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-06-14T13:05:38+05:30
+- **Status**: Completed and verified
