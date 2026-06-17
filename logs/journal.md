@@ -2461,3 +2461,6 @@
 ### [2026-06-16] - refactor(io): streamline file stream reader and buffer flushing
 - **Timestamp**: 2026-06-16T17:55:09+05:30
 - **Status**: Completed and verified
+### [2026-06-17] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-06-17T16:28:30+05:30
+- **Status**: Completed and verified
