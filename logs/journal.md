@@ -2470,3 +2470,6 @@
 ### [2026-06-18] - feat(python): implement generator-based streaming parser
 - **Timestamp**: 2026-06-18T15:28:53+05:30
 - **Status**: Completed and verified
+### [2026-06-18] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-06-18T20:12:24+05:30
+- **Status**: Completed and verified
