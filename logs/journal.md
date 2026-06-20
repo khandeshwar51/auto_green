@@ -2476,3 +2476,6 @@
 ### [2026-06-19] - perf(cache): improve cache locality for sequential matrix access
 - **Timestamp**: 2026-06-19T17:22:27+05:30
 - **Status**: Completed and verified
+### [2026-06-20] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-06-20T13:51:12+05:30
+- **Status**: Completed and verified
