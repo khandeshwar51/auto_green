@@ -2479,3 +2479,6 @@
 ### [2026-06-20] - fix(parser): resolve edge-case indexing and token boundary handling
 - **Timestamp**: 2026-06-20T13:51:12+05:30
 - **Status**: Completed and verified
+### [2026-06-20] - chore(tooling): update git attributes and repository metadata
+- **Timestamp**: 2026-06-20T15:28:46+05:30
+- **Status**: Completed and verified
