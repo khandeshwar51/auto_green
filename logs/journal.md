@@ -2491,3 +2491,6 @@
 ### [2026-06-21] - fix(boundary): handle empty input vector edge case gracefully
 - **Timestamp**: 2026-06-21T10:14:10+05:30
 - **Status**: Completed and verified
+### [2026-06-21] - feat(api): add request schema validation and error boundary
+- **Timestamp**: 2026-06-21T16:06:26+05:30
+- **Status**: Completed and verified
