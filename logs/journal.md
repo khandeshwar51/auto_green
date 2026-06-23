@@ -2509,3 +2509,6 @@
 ### [2026-06-23] - feat(systems): implement thread-safe buffer queue abstraction
 - **Timestamp**: 2026-06-23T11:13:18+05:30
 - **Status**: Completed and verified
+### [2026-06-23] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2026-06-23T14:35:55+05:30
+- **Status**: Completed and verified
