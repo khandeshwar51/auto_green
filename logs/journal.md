@@ -2584,3 +2584,6 @@
 ### [2026-07-03] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2026-07-03T17:24:40+05:30
 - **Status**: Completed and verified
+### [2026-07-04] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2026-07-04T10:25:36+05:30
+- **Status**: Completed and verified
