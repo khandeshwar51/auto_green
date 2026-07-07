@@ -2611,3 +2611,6 @@
 ### [2026-07-07] - refactor(types): strengthen type annotations and interfaces
 - **Timestamp**: 2026-07-07T13:47:18+05:30
 - **Status**: Completed and verified
+### [2026-07-07] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2026-07-07T16:21:36+05:30
+- **Status**: Completed and verified
