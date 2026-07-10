@@ -2638,3 +2638,6 @@
 ### [2026-07-10] - feat(dsa): implement binary search tree balance check
 - **Timestamp**: 2026-07-10T13:25:23+05:30
 - **Status**: Completed and verified
+### [2026-07-10] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2026-07-10T21:07:48+05:30
+- **Status**: Completed and verified
