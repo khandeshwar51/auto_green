@@ -2647,3 +2647,6 @@
 ### [2026-07-12] - feat(dsa): add priority queue implementation using min-heap
 - **Timestamp**: 2026-07-12T16:05:35+05:30
 - **Status**: Completed and verified
+### [2026-07-12] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-07-12T18:22:04+05:30
+- **Status**: Completed and verified
