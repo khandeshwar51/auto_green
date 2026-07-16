@@ -2689,3 +2689,6 @@
 ### [2026-07-16] - feat(dsa): implement LRU cache with hash map and doubly linked list
 - **Timestamp**: 2026-07-16T13:00:22+05:30
 - **Status**: Completed and verified
+### [2026-07-16] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-07-16T15:48:18+05:30
+- **Status**: Completed and verified
