@@ -2683,3 +2683,6 @@
 ### [2026-07-15] - chore(lint): fix compiler warnings and align formatting style
 - **Timestamp**: 2026-07-15T20:58:12+05:30
 - **Status**: Completed and verified
+### [2026-07-16] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2026-07-16T09:26:04+05:30
+- **Status**: Completed and verified
