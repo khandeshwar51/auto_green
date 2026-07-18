@@ -2704,3 +2704,6 @@
 ### [2026-07-17] - fix(memory): fix dangling pointer access in tree node deletion
 - **Timestamp**: 2026-07-17T17:22:46+05:30
 - **Status**: Completed and verified
+### [2026-07-18] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2026-07-18T09:31:17+05:30
+- **Status**: Completed and verified
