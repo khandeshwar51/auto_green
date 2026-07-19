@@ -2713,3 +2713,6 @@
 ### [2026-07-19] - test(unit): add unit tests for string tokenization and hashing
 - **Timestamp**: 2026-07-19T12:51:54+05:30
 - **Status**: Completed and verified
+### [2026-07-19] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2026-07-19T16:49:48+05:30
+- **Status**: Completed and verified
