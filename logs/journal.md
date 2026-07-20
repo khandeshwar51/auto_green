@@ -2722,3 +2722,6 @@
 ### [2026-07-20] - refactor(core): optimize algorithmic time complexity and memory layout
 - **Timestamp**: 2026-07-20T15:49:51+05:30
 - **Status**: Completed and verified
+### [2026-07-20] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-07-20T22:25:58+05:30
+- **Status**: Completed and verified
