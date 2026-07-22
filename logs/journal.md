@@ -2737,3 +2737,6 @@
 ### [2026-07-22] - feat(algorithms): implement Kadane algorithm for maximum subarray sum
 - **Timestamp**: 2026-07-22T15:20:26+05:30
 - **Status**: Completed and verified
+### [2026-07-22] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-07-22T20:40:29+05:30
+- **Status**: Completed and verified
