@@ -2740,3 +2740,6 @@
 ### [2026-07-22] - fix(parser): resolve edge-case indexing and token boundary handling
 - **Timestamp**: 2026-07-22T20:40:29+05:30
 - **Status**: Completed and verified
+### [2026-07-23] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2026-07-23T15:00:41+05:30
+- **Status**: Completed and verified
