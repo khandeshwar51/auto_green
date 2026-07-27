@@ -2758,3 +2758,6 @@
 ### [2026-07-26] - perf(speed): optimize vector capacity allocation and pre-sizing
 - **Timestamp**: 2026-07-26T16:48:47+05:30
 - **Status**: Completed and verified
+### [2026-07-27] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2026-07-27T10:55:32+05:30
+- **Status**: Completed and verified
