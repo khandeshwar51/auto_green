@@ -2767,3 +2767,6 @@
 ### [2026-07-27] - perf(query): optimize linear scan to binary search lookup
 - **Timestamp**: 2026-07-27T15:54:05+05:30
 - **Status**: Completed and verified
+### [2026-07-27] - feat(python): implement generator-based streaming parser
+- **Timestamp**: 2026-07-27T19:15:38+05:30
+- **Status**: Completed and verified
