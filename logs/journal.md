@@ -2764,3 +2764,6 @@
 ### [2026-07-27] - fix(logic): correct off-by-one index calculation in matrix rotation
 - **Timestamp**: 2026-07-27T14:29:27+05:30
 - **Status**: Completed and verified
+### [2026-07-27] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2026-07-27T15:54:05+05:30
+- **Status**: Completed and verified
