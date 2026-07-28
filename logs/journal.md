@@ -2773,3 +2773,6 @@
 ### [2026-07-27] - feat(api): add request schema validation and error boundary
 - **Timestamp**: 2026-07-27T20:25:50+05:30
 - **Status**: Completed and verified
+### [2026-07-28] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2026-07-28T13:22:37+05:30
+- **Status**: Completed and verified
