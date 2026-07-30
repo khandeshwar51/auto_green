@@ -2788,3 +2788,6 @@
 ### [2026-07-30] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2026-07-30T14:34:20+05:30
 - **Status**: Completed and verified
+### [2026-07-30] - perf(cache): improve cache locality for sequential matrix access
+- **Timestamp**: 2026-07-30T23:29:27+05:30
+- **Status**: Completed and verified
