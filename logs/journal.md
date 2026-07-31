@@ -2791,3 +2791,6 @@
 ### [2026-07-30] - perf(cache): improve cache locality for sequential matrix access
 - **Timestamp**: 2026-07-30T23:29:27+05:30
 - **Status**: Completed and verified
+### [2026-07-31] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-07-31T10:31:48+05:30
+- **Status**: Completed and verified
