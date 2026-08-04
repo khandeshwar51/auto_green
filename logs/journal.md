@@ -2818,3 +2818,6 @@
 ### [2026-08-04] - docs(notes): add notes on CAP theorem and eventual consistency
 - **Timestamp**: 2026-08-04T14:41:46+05:30
 - **Status**: Completed and verified
+### [2026-08-04] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-08-04T23:55:18+05:30
+- **Status**: Completed and verified
