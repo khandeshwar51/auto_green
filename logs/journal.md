@@ -2815,3 +2815,6 @@
 ### [2026-08-03] - refactor(io): streamline file stream reader and buffer flushing
 - **Timestamp**: 2026-08-03T23:09:18+05:30
 - **Status**: Completed and verified
+### [2026-08-04] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-08-04T14:41:46+05:30
+- **Status**: Completed and verified
