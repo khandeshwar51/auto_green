@@ -2821,3 +2821,6 @@
 ### [2026-08-04] - fix(parser): resolve edge-case indexing and token boundary handling
 - **Timestamp**: 2026-08-04T23:55:18+05:30
 - **Status**: Completed and verified
+### [2026-08-05] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-08-05T09:39:42+05:30
+- **Status**: Completed and verified
