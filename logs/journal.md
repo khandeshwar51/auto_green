@@ -2827,3 +2827,6 @@
 ### [2026-08-05] - feat(python): implement generator-based streaming parser
 - **Timestamp**: 2026-08-05T17:24:02+05:30
 - **Status**: Completed and verified
+### [2026-08-06] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-08-06T11:41:53+05:30
+- **Status**: Completed and verified
