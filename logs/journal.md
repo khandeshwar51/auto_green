@@ -2881,3 +2881,6 @@
 ### [2026-08-13] - fix(boundary): handle empty input vector edge case gracefully
 - **Timestamp**: 2026-08-13T16:19:27+05:30
 - **Status**: Completed and verified
+### [2026-08-13] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2026-08-13T22:52:09+05:30
+- **Status**: Completed and verified
