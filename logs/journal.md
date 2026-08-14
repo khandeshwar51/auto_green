@@ -2884,3 +2884,6 @@
 ### [2026-08-13] - chore(config): streamline build scripts and environment flags
 - **Timestamp**: 2026-08-13T22:52:09+05:30
 - **Status**: Completed and verified
+### [2026-08-14] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-08-14T18:33:45+05:30
+- **Status**: Completed and verified
