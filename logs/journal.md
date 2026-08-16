@@ -2902,3 +2902,6 @@
 ### [2026-08-15] - feat(dsa): add memoization to dynamic programming recurrence
 - **Timestamp**: 2026-08-15T19:36:40+05:30
 - **Status**: Completed and verified
+### [2026-08-16] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2026-08-16T14:58:12+05:30
+- **Status**: Completed and verified
