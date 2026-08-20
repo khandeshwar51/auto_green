@@ -2938,3 +2938,6 @@
 ### [2026-08-20] - refactor(io): streamline file stream reader and buffer flushing
 - **Timestamp**: 2026-08-20T14:51:31+05:30
 - **Status**: Completed and verified
+### [2026-08-20] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2026-08-20T18:53:15+05:30
+- **Status**: Completed and verified
