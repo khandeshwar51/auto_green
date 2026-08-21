@@ -2950,3 +2950,6 @@
 ### [2026-08-21] - refactor(clean-code): modularize utility functions and decouple handlers
 - **Timestamp**: 2026-08-21T16:10:03+05:30
 - **Status**: Completed and verified
+### [2026-08-21] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2026-08-21T21:30:46+05:30
+- **Status**: Completed and verified
