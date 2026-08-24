@@ -2965,3 +2965,6 @@
 ### [2026-08-24] - feat(react): build reusable modal and drawer component primitives
 - **Timestamp**: 2026-08-24T14:54:41+05:30
 - **Status**: Completed and verified
+### [2026-08-24] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2026-08-24T18:30:48+05:30
+- **Status**: Completed and verified
