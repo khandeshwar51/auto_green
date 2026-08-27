@@ -2986,3 +2986,6 @@
 ### [2026-08-27] - feat(web): enhance dark mode transition and UI accessibility
 - **Timestamp**: 2026-08-27T13:55:02+05:30
 - **Status**: Completed and verified
+### [2026-08-27] - feat(dsa): implement disjoint set union with path compression
+- **Timestamp**: 2026-08-27T17:48:36+05:30
+- **Status**: Completed and verified
