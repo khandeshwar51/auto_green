@@ -2980,3 +2980,6 @@
 ### [2026-08-26] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2026-08-26T19:05:24+05:30
 - **Status**: Completed and verified
+### [2026-08-27] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2026-08-27T10:34:12+05:30
+- **Status**: Completed and verified
