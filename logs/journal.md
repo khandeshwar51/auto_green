@@ -3001,3 +3001,6 @@
 ### [2026-08-28] - refactor(dsa): streamline graph traversal and shortest path logic
 - **Timestamp**: 2026-08-28T21:59:09+05:30
 - **Status**: Completed and verified
+### [2026-08-29] - feat(dsa): implement binary search tree balance check
+- **Timestamp**: 2026-08-29T10:28:56+05:30
+- **Status**: Completed and verified
