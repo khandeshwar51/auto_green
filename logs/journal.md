@@ -3019,3 +3019,6 @@
 ### [2026-08-30] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
 - **Timestamp**: 2026-08-30T20:25:49+05:30
 - **Status**: Completed and verified
+### [2026-08-31] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2026-08-31T14:33:16+05:30
+- **Status**: Completed and verified
