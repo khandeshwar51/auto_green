@@ -3028,3 +3028,6 @@
 ### [2026-09-01] - refactor(core): optimize algorithmic time complexity and memory layout
 - **Timestamp**: 2026-09-01T12:51:41+05:30
 - **Status**: Completed and verified
+### [2026-09-01] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-09-01T18:04:03+05:30
+- **Status**: Completed and verified
