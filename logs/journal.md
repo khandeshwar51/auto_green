@@ -3055,3 +3055,6 @@
 ### [2026-09-04] - feat(dsa): implement binary search tree balance check
 - **Timestamp**: 2026-09-04T12:07:34+05:30
 - **Status**: Completed and verified
+### [2026-09-04] - fix(memory): fix dangling pointer access in tree node deletion
+- **Timestamp**: 2026-09-04T23:17:21+05:30
+- **Status**: Completed and verified
