@@ -3058,3 +3058,6 @@
 ### [2026-09-04] - fix(memory): fix dangling pointer access in tree node deletion
 - **Timestamp**: 2026-09-04T23:17:21+05:30
 - **Status**: Completed and verified
+### [2026-09-05] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-09-05T14:32:14+05:30
+- **Status**: Completed and verified
