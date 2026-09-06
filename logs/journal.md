@@ -3067,3 +3067,6 @@
 ### [2026-09-06] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
 - **Timestamp**: 2026-09-06T13:47:22+05:30
 - **Status**: Completed and verified
+### [2026-09-06] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2026-09-06T20:13:40+05:30
+- **Status**: Completed and verified
