@@ -3064,3 +3064,6 @@
 ### [2026-09-05] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2026-09-05T19:51:24+05:30
 - **Status**: Completed and verified
+### [2026-09-06] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2026-09-06T13:47:22+05:30
+- **Status**: Completed and verified
