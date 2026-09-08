@@ -3079,3 +3079,6 @@
 ### [2026-09-08] - feat(dsa): implement disjoint set union with path compression
 - **Timestamp**: 2026-09-08T13:52:01+05:30
 - **Status**: Completed and verified
+### [2026-09-08] - fix(memory): fix dangling pointer access in tree node deletion
+- **Timestamp**: 2026-09-08T15:50:07+05:30
+- **Status**: Completed and verified
