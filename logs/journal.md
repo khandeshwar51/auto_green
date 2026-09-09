@@ -3094,3 +3094,6 @@
 ### [2026-09-09] - docs(dsa): add amortized time complexity proof for dynamic arrays
 - **Timestamp**: 2026-09-09T18:54:59+05:30
 - **Status**: Completed and verified
+### [2026-09-09] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2026-09-09T21:15:34+05:30
+- **Status**: Completed and verified
