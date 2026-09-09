@@ -3091,3 +3091,6 @@
 ### [2026-09-09] - refactor(io): streamline file stream reader and buffer flushing
 - **Timestamp**: 2026-09-09T11:52:46+05:30
 - **Status**: Completed and verified
+### [2026-09-09] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-09-09T18:54:59+05:30
+- **Status**: Completed and verified
