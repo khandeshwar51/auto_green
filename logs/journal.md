@@ -3166,3 +3166,6 @@
 ### [2026-09-20] - test(fuzz): add randomized property-based tests for sorting algorithms
 - **Timestamp**: 2026-09-20T15:58:16+05:30
 - **Status**: Completed and verified
+### [2026-09-20] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-09-20T19:05:25+05:30
+- **Status**: Completed and verified
