@@ -3178,3 +3178,6 @@
 ### [2026-09-21] - docs(journal): sync daily engineering notes and milestone metrics
 - **Timestamp**: 2026-09-21T14:12:52+05:30
 - **Status**: Completed and verified
+### [2026-09-21] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2026-09-21T15:40:11+05:30
+- **Status**: Completed and verified
