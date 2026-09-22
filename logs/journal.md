@@ -3187,3 +3187,6 @@
 ### [2026-09-21] - chore(deps): update routine dependencies and development tooling
 - **Timestamp**: 2026-09-21T21:55:51+05:30
 - **Status**: Completed and verified
+### [2026-09-22] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2026-09-22T09:58:27+05:30
+- **Status**: Completed and verified
