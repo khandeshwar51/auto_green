@@ -3193,3 +3193,6 @@
 ### [2026-09-23] - refactor(dsa): optimize recursive backtracking with bitmask pruning
 - **Timestamp**: 2026-09-23T13:18:52+05:30
 - **Status**: Completed and verified
+### [2026-09-23] - fix(logic): correct off-by-one index calculation in matrix rotation
+- **Timestamp**: 2026-09-23T20:58:52+05:30
+- **Status**: Completed and verified
