@@ -3217,3 +3217,6 @@
 ### [2026-09-26] - docs(journal): sync daily engineering notes and milestone metrics
 - **Timestamp**: 2026-09-26T19:16:34+05:30
 - **Status**: Completed and verified
+### [2026-09-27] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2026-09-27T10:08:35+05:30
+- **Status**: Completed and verified
