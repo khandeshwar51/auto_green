@@ -3259,3 +3259,6 @@
 ### [2026-10-02] - perf(algorithms): refine two-pointer sliding window routines
 - **Timestamp**: 2026-10-02T20:41:17+05:30
 - **Status**: Completed and verified
+### [2026-10-03] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-10-03T12:59:29+05:30
+- **Status**: Completed and verified
