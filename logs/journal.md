@@ -3262,3 +3262,6 @@
 ### [2026-10-03] - fix(parser): resolve edge-case indexing and token boundary handling
 - **Timestamp**: 2026-10-03T12:59:29+05:30
 - **Status**: Completed and verified
+### [2026-10-03] - perf(query): optimize linear scan to binary search lookup
+- **Timestamp**: 2026-10-03T13:53:30+05:30
+- **Status**: Completed and verified
