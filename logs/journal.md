@@ -3271,3 +3271,6 @@
 ### [2026-10-04] - refactor(dsa): optimize recursive backtracking with bitmask pruning
 - **Timestamp**: 2026-10-04T11:56:11+05:30
 - **Status**: Completed and verified
+### [2026-10-04] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-10-04T14:44:17+05:30
+- **Status**: Completed and verified
