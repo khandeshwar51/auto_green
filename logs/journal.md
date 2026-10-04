@@ -3274,3 +3274,6 @@
 ### [2026-10-04] - docs(notes): add notes on CAP theorem and eventual consistency
 - **Timestamp**: 2026-10-04T14:44:17+05:30
 - **Status**: Completed and verified
+### [2026-10-04] - feat(dsa): add priority queue implementation using min-heap
+- **Timestamp**: 2026-10-04T20:25:00+05:30
+- **Status**: Completed and verified
