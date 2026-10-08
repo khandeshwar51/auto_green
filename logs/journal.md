@@ -3295,3 +3295,6 @@
 ### [2026-10-08] - test(core): add stress test for concurrent hash map lookups
 - **Timestamp**: 2026-10-08T12:07:13+05:30
 - **Status**: Completed and verified
+### [2026-10-08] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-10-08T18:41:12+05:30
+- **Status**: Completed and verified
