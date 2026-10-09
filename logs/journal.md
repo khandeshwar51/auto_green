@@ -3298,3 +3298,6 @@
 ### [2026-10-08] - fix(parser): resolve edge-case indexing and token boundary handling
 - **Timestamp**: 2026-10-08T18:41:12+05:30
 - **Status**: Completed and verified
+### [2026-10-09] - test(dsa): add edge cases for linked list reversal and cycle detection
+- **Timestamp**: 2026-10-09T11:37:22+05:30
+- **Status**: Completed and verified
