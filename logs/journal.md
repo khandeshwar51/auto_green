@@ -3304,3 +3304,6 @@
 ### [2026-10-09] - feat(web): update responsive component patterns and state hooks
 - **Timestamp**: 2026-10-09T13:36:42+05:30
 - **Status**: Completed and verified
+### [2026-10-09] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-10-09T18:13:57+05:30
+- **Status**: Completed and verified
