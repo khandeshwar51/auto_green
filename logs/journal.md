@@ -3307,3 +3307,6 @@
 ### [2026-10-09] - docs(dsa): add amortized time complexity proof for dynamic arrays
 - **Timestamp**: 2026-10-09T18:13:57+05:30
 - **Status**: Completed and verified
+### [2026-10-09] - fix(memory): fix dangling pointer access in tree node deletion
+- **Timestamp**: 2026-10-09T23:24:03+05:30
+- **Status**: Completed and verified
