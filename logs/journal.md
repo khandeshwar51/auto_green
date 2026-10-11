@@ -3325,3 +3325,6 @@
 ### [2026-10-11] - test(dsa): add edge cases for linked list reversal and cycle detection
 - **Timestamp**: 2026-10-11T18:37:20+05:30
 - **Status**: Completed and verified
+### [2026-10-11] - fix(null-check): add safety guards for uninitialized pointers
+- **Timestamp**: 2026-10-11T23:23:29+05:30
+- **Status**: Completed and verified
