@@ -3328,3 +3328,6 @@
 ### [2026-10-11] - fix(null-check): add safety guards for uninitialized pointers
 - **Timestamp**: 2026-10-11T23:23:29+05:30
 - **Status**: Completed and verified
+### [2026-10-12] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2026-10-12T09:37:23+05:30
+- **Status**: Completed and verified
