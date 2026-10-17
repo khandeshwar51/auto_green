@@ -3361,3 +3361,6 @@
 ### [2026-10-17] - docs(journal): sync daily engineering notes and milestone metrics
 - **Timestamp**: 2026-10-17T15:06:04+05:30
 - **Status**: Completed and verified
+### [2026-10-17] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-10-17T21:59:29+05:30
+- **Status**: Completed and verified
