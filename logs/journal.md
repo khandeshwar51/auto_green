@@ -3367,3 +3367,6 @@
 ### [2026-10-18] - refactor(core): optimize algorithmic time complexity and memory layout
 - **Timestamp**: 2026-10-18T13:59:43+05:30
 - **Status**: Completed and verified
+### [2026-10-18] - perf(dsa): reduce auxiliary space in merge sort routine
+- **Timestamp**: 2026-10-18T16:31:28+05:30
+- **Status**: Completed and verified
