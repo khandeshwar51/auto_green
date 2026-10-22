@@ -3397,3 +3397,6 @@
 ### [2026-10-22] - docs(dsa): add amortized time complexity proof for dynamic arrays
 - **Timestamp**: 2026-10-22T12:13:01+05:30
 - **Status**: Completed and verified
+### [2026-10-22] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-10-22T17:08:51+05:30
+- **Status**: Completed and verified
