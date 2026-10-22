@@ -3394,3 +3394,6 @@
 ### [2026-10-21] - feat(react): build reusable modal and drawer component primitives
 - **Timestamp**: 2026-10-21T09:37:58+05:30
 - **Status**: Completed and verified
+### [2026-10-22] - docs(dsa): add amortized time complexity proof for dynamic arrays
+- **Timestamp**: 2026-10-22T12:13:01+05:30
+- **Status**: Completed and verified
