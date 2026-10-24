@@ -3412,3 +3412,6 @@
 ### [2026-10-23] - perf(cache): improve cache locality for sequential matrix access
 - **Timestamp**: 2026-10-23T21:41:58+05:30
 - **Status**: Completed and verified
+### [2026-10-24] - chore(config): streamline build scripts and environment flags
+- **Timestamp**: 2026-10-24T09:22:25+05:30
+- **Status**: Completed and verified
