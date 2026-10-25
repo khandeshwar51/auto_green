@@ -3424,3 +3424,6 @@
 ### [2026-10-25] - feat(dsa): add memoization to dynamic programming recurrence
 - **Timestamp**: 2026-10-25T12:04:19+05:30
 - **Status**: Completed and verified
+### [2026-10-25] - feat(dsa): implement disjoint set union with path compression
+- **Timestamp**: 2026-10-25T23:44:14+05:30
+- **Status**: Completed and verified
