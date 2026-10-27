@@ -3436,3 +3436,6 @@
 ### [2026-10-27] - fix(null-check): add safety guards for uninitialized pointers
 - **Timestamp**: 2026-10-27T16:05:56+05:30
 - **Status**: Completed and verified
+### [2026-10-27] - docs(notes): document topological sort and cycle detection in DAGs
+- **Timestamp**: 2026-10-27T21:45:46+05:30
+- **Status**: Completed and verified
