@@ -3442,3 +3442,6 @@
 ### [2026-10-28] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
 - **Timestamp**: 2026-10-28T12:30:05+05:30
 - **Status**: Completed and verified
+### [2026-10-28] - feat(dsa): implement disjoint set union with path compression
+- **Timestamp**: 2026-10-28T14:11:25+05:30
+- **Status**: Completed and verified
