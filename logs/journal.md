@@ -3439,3 +3439,6 @@
 ### [2026-10-27] - docs(notes): document topological sort and cycle detection in DAGs
 - **Timestamp**: 2026-10-27T21:45:46+05:30
 - **Status**: Completed and verified
+### [2026-10-28] - feat(algorithms): add Dijkstra shortest path algorithm with adjacency list
+- **Timestamp**: 2026-10-28T12:30:05+05:30
+- **Status**: Completed and verified
