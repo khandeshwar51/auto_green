@@ -3469,3 +3469,6 @@
 ### [2026-10-31] - perf(query): optimize linear scan to binary search lookup
 - **Timestamp**: 2026-10-31T22:59:31+05:30
 - **Status**: Completed and verified
+### [2026-11-01] - docs(system): add breakdown of rate-limiting algorithms (token bucket)
+- **Timestamp**: 2026-11-01T11:44:22+05:30
+- **Status**: Completed and verified
