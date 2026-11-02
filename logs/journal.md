@@ -3481,3 +3481,6 @@
 ### [2026-11-02] - docs(dsa): add complexity trade-offs for trie search implementation
 - **Timestamp**: 2026-11-02T09:26:38+05:30
 - **Status**: Completed and verified
+### [2026-11-02] - docs(notes): add notes on CAP theorem and eventual consistency
+- **Timestamp**: 2026-11-02T21:45:08+05:30
+- **Status**: Completed and verified
