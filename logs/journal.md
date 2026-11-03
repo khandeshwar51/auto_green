@@ -3487,3 +3487,6 @@
 ### [2026-11-03] - fix(parser): resolve edge-case indexing and token boundary handling
 - **Timestamp**: 2026-11-03T12:22:50+05:30
 - **Status**: Completed and verified
+### [2026-11-03] - refactor(state): consolidate global store selectors and reducers
+- **Timestamp**: 2026-11-03T13:00:22+05:30
+- **Status**: Completed and verified
