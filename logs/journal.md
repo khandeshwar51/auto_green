@@ -3484,3 +3484,6 @@
 ### [2026-11-02] - docs(notes): add notes on CAP theorem and eventual consistency
 - **Timestamp**: 2026-11-02T21:45:08+05:30
 - **Status**: Completed and verified
+### [2026-11-03] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-11-03T12:22:50+05:30
+- **Status**: Completed and verified
