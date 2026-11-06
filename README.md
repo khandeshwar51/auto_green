@@ -10,3 +10,4 @@ An automated engineering activity log and learning tracker maintaining records o
 - **Languages**: C++, Python, TypeScript, SQL
 - **Domains**: Data Structures & Algorithms, Full-Stack Engineering, System Architecture
 - **Tracking**: Daily engineering progress & development journal
+

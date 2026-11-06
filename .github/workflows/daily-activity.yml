@@ -59,3 +59,4 @@ jobs:
           git add logs/journal.md
           git commit -m "${SELECTED_MSG}"
           git push origin main
+
