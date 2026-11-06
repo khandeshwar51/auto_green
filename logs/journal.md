@@ -3505,3 +3505,6 @@
 ### [2026-11-05] - fix(boundary): handle empty input vector edge case gracefully
 - **Timestamp**: 2026-11-05T22:18:21+05:30
 - **Status**: Completed and verified
+### [2026-11-06] - fix(parser): resolve edge-case indexing and token boundary handling
+- **Timestamp**: 2026-11-06T11:10:40+05:30
+- **Status**: Completed and verified
